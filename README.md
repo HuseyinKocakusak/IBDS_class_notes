@@ -9,3 +9,5 @@ This is new text I added
 ##heading 3
 
 **why does not it get bold**
+
+Batın ağlamaya devam ediyor.
